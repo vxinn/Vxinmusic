@@ -10,7 +10,7 @@
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
     
-<a href="https://dashboard.heroku.com/new?template=https://github.com/vxinn/Vxinmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<p align="center'="https://dashboard.heroku.com/new?template=https://github.com/vxinn/Vxinmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</p>  
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
